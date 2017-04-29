@@ -1,5 +1,8 @@
 # Mini-Custom-Assembler-Emulator
 Custom Assebly Language execution simulator
+<br/>
+Put those commands in a file.txt
+<br/>
 Syntax Example:
 <br/>
 section.data
